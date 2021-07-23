@@ -1,3 +1,4 @@
+echo -e '\033[31;40;1m              Not: Kurulum Sırasında Root  Şifresini Giriniiz Termux İse Buna  Gerek Yoktur!'
 pkg install git -y
 pkg install python python2 -y
 pkg install wget -y
